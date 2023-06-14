@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mJbgkoH9WJHukE+ku27OskhqMWJ1c5sGykW+XR2bhJQ=",
+  "Source": "OfficeManagerBackend.API",
+  "BasePath": "_content/OfficeManagerBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

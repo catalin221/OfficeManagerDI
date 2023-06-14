@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OfficeManagerBackend.API.props" />
+</Project>

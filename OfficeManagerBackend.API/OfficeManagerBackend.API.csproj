@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OfficeManagerBackend.Application\OfficeManagerBackend.Application.csproj" />
+    <ProjectReference Include="..\OfficeManagerBackend.Domain\OfficeManagerBackend.Domain.csproj" />
+    <ProjectReference Include="..\OfficeManagerBackend.Infrastructure\OfficeManagerBackend.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
